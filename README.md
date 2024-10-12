@@ -9,7 +9,7 @@ Mechatronic Engineer specializing in Intelligent Robotic Systems Liking for the 
 * 🌍  I'm based in Aguascalientes, Ags
 * ✉️  You can contact me at [leor21q@gmail.com](mailto:leor21q@gmail.com)
 * 🧠  I'm learning Typescript, MongoDB, NextJS, Flutter
-* ⚡  Interests : Electromagnetism | Videogames | Nanotechnology | Maxwell Equations | Medicine | Nuclear Physics | Sustainability | Trading | Technology | IoT | Wireless Energy | Quantum Mechanics | Do exercise |
+* ⚡  Interests : Electromagnetism | Videogames | Nanotechnology | Maxwell Equations | Medicine | Nuclear Physics | Sustainability | Trading | Technology | IoT | Wireless Energy | Quantum Mechanics | Optics | Do exercise |
 
 ### Skills
 
