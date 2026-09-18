@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Enrique Orozco Robles
 =============================================================================================================================================
 
-I'm a Developer and Designer
+I'm a IC Design Verification Engineer, IC Physical Design Engineer, Full Stack Developer, and Designer
 ----------------------------
 
-Mechatronic Engineer specializing in Intelligent Robotic Systems Liking for the technology and helping others.
+Mechatronic Engineer specialized in Intelligent Robotic Systems Liking for the technology and helping others.
 
 * 🌍  I'm based in Aguascalientes, Ags
 * ✉️  You can contact me at [leor21q@gmail.com](mailto:leor21q@gmail.com)
-* 🧠  I'm learning Typescript, MongoDB, NextJS, Flutter
+* 🧠  I'm learning Computer Architecture, RISC-V, Typescript, MongoDB, NextJS, Flutter
 * ⚡  Interests : Computer Architecture | Digital Design | Electromagnetism | Videogames | Nanotechnology | Maxwell Equations | Medicine | Nuclear Physics | Sustainability | Trading | Technology | IoT | Wireless Energy | Quantum Mechanics | Optics | Do exercise |
 
 ### Skills
